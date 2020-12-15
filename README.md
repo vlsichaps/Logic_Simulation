@@ -6,11 +6,13 @@ AND
 
 OR
 
+XOR
+
 NAND
 
 NOR
 
 XNOR
 
-XOR
+
 

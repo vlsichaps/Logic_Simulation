@@ -1,8 +1,14 @@
-# Logic_Simulation
+# Logic Simulation
 
 AND
+
 OR
-NAND 
+
+NAND
+
 NOR
+
 XNOR
+
 XOR
+

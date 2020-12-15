@@ -1,5 +1,7 @@
 # Logic Simulation
 
+NOT
+
 AND
 
 OR
